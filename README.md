@@ -62,51 +62,59 @@ I specialize in building production-ready digital experiences using modern techn
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 </p>
 
----
-
 # Developer Snapshot
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=akdevsolutions&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-</div>
-
----
-
-# Featured Projects
 
 <table>
 <tr>
 <td width="50%">
-<a href="https://github.com/akdevsolutions/YOUR_REPO_1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=akdevsolutions&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true"/>
-</a>
+
+### Currently Building
+
+- 🚀 Full-Stack Web Applications
+- ⚡ Next.js Projects
+- 🔐 Secure Backend APIs
+- 🎨 Modern UI/UX
+
 </td>
 
 <td width="50%">
-<a href="https://github.com/akdevsolutions/YOUR_REPO_2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=akdevsolutions&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true"/>
-</a>
-</td>
-</tr>
 
-<tr>
-<td width="50%">
-<a href="https://github.com/akdevsolutions/YOUR_REPO_3">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=akdevsolutions&repo=YOUR_REPO_3&theme=tokyonight&hide_border=true"/>
-</a>
-</td>
+### Quick Facts
 
-<td width="50%">
-<a href="https://github.com/akdevsolutions/YOUR_REPO_4">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=akdevsolutions&repo=YOUR_REPO_4&theme=tokyonight&hide_border=true"/>
-</a>
+- 💻 Full-Stack Developer
+- 🌍 Open Source Learner
+- 🛠 React • Next.js • Node.js
+- 📍 India
+
 </td>
 </tr>
 </table>
 
 ---
+
+# Tech Highlights
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql"/>
+
+</p>
+
+---
+
+# Featured Repositories
+
+> ⭐ Explore my best projects directly from my repositories.
+
+- **Portfolio Website**
+- **Next.js Full-Stack App**
+- **Authentication System**
+- **API Projects**
 
 # Currently Building
 
