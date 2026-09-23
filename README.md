@@ -1,6 +1,6 @@
 <div align="center">
 
-# AK DEV SOLUTIONS
+# Ak Dev Solutions
 
 ### Creator • Developer • Explorer
 
