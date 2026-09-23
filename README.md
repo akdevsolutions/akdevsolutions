@@ -102,6 +102,14 @@ I specialize in building production-ready digital experiences using modern techn
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akdevsolutions/akdevsolutions/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+
+---
+
 # Current Focus
 
 - Architecting scalable applications with **Next.js** and the modern React ecosystem.
