@@ -140,7 +140,7 @@ I specialize in building production-ready digital experiences using modern techn
 - High-Performance Backend Systems
 - Clean UI & Developer-Focused Products
 
-## 🐍 Contribution Snake
+## Development Journey
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/akdevsolutions/akdevsolutions/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
