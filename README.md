@@ -64,43 +64,56 @@ I specialize in building production-ready digital experiences using modern techn
 
 ---
 
-# GitHub Analytics
+# Developer Snapshot
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=akdevsolutions&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=akdevsolutions&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akdevsolutions&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=akdevsolutions&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 </div>
 
 ---
 
-# Contribution Activity
+# Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/akdevsolutions/YOUR_REPO_1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=akdevsolutions&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true"/>
+</a>
+</td>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akdevsolutions&theme=tokyo-night&hide_border=true"/>
+<td width="50%">
+<a href="https://github.com/akdevsolutions/YOUR_REPO_2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=akdevsolutions&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true"/>
+</a>
+</td>
+</tr>
 
-</div>
+<tr>
+<td width="50%">
+<a href="https://github.com/akdevsolutions/YOUR_REPO_3">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=akdevsolutions&repo=YOUR_REPO_3&theme=tokyonight&hide_border=true"/>
+</a>
+</td>
+
+<td width="50%">
+<a href="https://github.com/akdevsolutions/YOUR_REPO_4">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=akdevsolutions&repo=YOUR_REPO_4&theme=tokyonight&hide_border=true"/>
+</a>
+</td>
+</tr>
+</table>
 
 ---
 
-# GitHub Achievements
+# Currently Building
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=akdevsolutions&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
+- Scalable Full-Stack Web Applications
+- Modern Next.js Projects
+- High-Performance Backend Systems
+- Clean UI & Developer-Focused Products
 
 ## 🐍 Contribution Snake
 
